@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-Full Stack Developer passionate about technology and innovation. Experience in implementing technological solutions and web development. I am constantly looking for new challenges to continue growing professionally.
+Front End Developer passionate about technology and innovation. Experience in implementing technological solutions and web development. I am constantly looking for new challenges to continue growing professionally.
 
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at [azua.cc](http://azua.ccc)
